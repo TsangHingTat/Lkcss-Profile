@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.itwake.iclass3.restriction.airdrop.restrictions1</string>
+			<key>PayloadOrganization</key>
+			<string>iClass</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>6F90FFFA-40AA-42A8-8E7E-5099E68A5EC5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowAirDrop</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables AirDrop</string>
+	<key>PayloadDisplayName</key>
+	<string>AirDrop Lock</string>
+	<key>PayloadIdentifier</key>
+	<string>com.itwake.iclass3.restriction.airdrop</string>
+	<key>PayloadOrganization</key>
+	<string>iClass</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8D8E24BF-5EFE-4923-8E18-A8B464FB1358</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>ProfileWasEncrypted</key>
+	<false/>
+	<key>ProfileWasLocked</key>
+	<true/>
+	<key>TargetDeviceType</key>
+	<integer>0</integer>
+</dict>
+</plist>

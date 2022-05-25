@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>CertSubject</key>
+			<string>iClass MDM Root CA 2015</string>
+			<key>Expiry</key>
+			<real>766311249</real>
+			<key>IsIdentity</key>
+			<false/>
+			<key>IsRoot</key>
+			<true/>
+			<key>Issuer</key>
+			<string>iClass MDM Root CA 2015</string>
+			<key>PERSISTENT_REF</key>
+			<data>
+			Y2VydAW7JROUs00ViaUBcGw5//8=
+			</data>
+			<key>PayloadDescription</key>
+			<string>Provides device authentication (certificate or identity).</string>
+			<key>PayloadDisplayName</key>
+			<string>iClass MDM Root CA 2015</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mgmt.External.7a38a925-dadd-4253-ba88-875775b46948.credential2</string>
+			<key>PayloadOrganization</key>
+			<string>iClass</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>2D5574A5-A28A-45B1-8C32-196C3B713395</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>UDID</key>
+			<string>00008020-00032CC83CA2402E</string>
+		</dict>
+		<dict>
+			<key>CertSubject</key>
+			<string>iClass Default Identity 2017</string>
+			<key>Expiry</key>
+			<real>674453137</real>
+			<key>IsIdentity</key>
+			<true/>
+			<key>IsRoot</key>
+			<false/>
+			<key>Issuer</key>
+			<string>iClass MDM Root CA 2015</string>
+			<key>PERSISTENT_REF</key>
+			<data>
+			aWRudJBnkeqo/k19sudE+Tz1VOU=
+			</data>
+			<key>PayloadDescription</key>
+			<string>Provides device authentication (certificate or identity).</string>
+			<key>PayloadDisplayName</key>
+			<string>iClass Default Identity 2017</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mgmt.External.7a38a925-dadd-4253-ba88-875775b46948.credential3</string>
+			<key>PayloadOrganization</key>
+			<string>iClass</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs12</string>
+			<key>PayloadUUID</key>
+			<string>33A71F44-CFD9-4741-AAED-34401527D99C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>UDID</key>
+			<string>00008020-00032CC83CA2402E</string>
+		</dict>
+		<dict>
+			<key>AccessRights</key>
+			<integer>8191</integer>
+			<key>CheckInURL</key>
+			<string>https://lkcss.mdm.iclass.hk/checkin</string>
+			<key>CheckInURLPinningCertificatePersistentRefs</key>
+			<array/>
+			<key>CheckOutWhenRemoved</key>
+			<true/>
+			<key>IdentityPersistentRef</key>
+			<data>
+			aWRudJBnkeqo/k19sudE+Tz1VOU=
+			</data>
+			<key>PayloadDescription</key>
+			<string>Configures MobileDeviceManagement.</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mgmt.External.7a38a925-dadd-4253-ba88-875775b46948.mdm3</string>
+			<key>PayloadOrganization</key>
+			<string>iClass</string>
+			<key>PayloadType</key>
+			<string>com.apple.mdm</string>
+			<key>PayloadUUID</key>
+			<string>97BF06ED-D97E-4209-BB5D-E021D48309B2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PinningRevocationCheckRequired</key>
+			<false/>
+			<key>ServerURL</key>
+			<string>https://lkcss.mdm.iclass.hk/server</string>
+			<key>ServerURLPinningCertificatePersistentRefs</key>
+			<array/>
+			<key>SignMessage</key>
+			<false/>
+			<key>Topic</key>
+			<string>com.apple.mgmt.External.7a38a925-dadd-4253-ba88-875775b46948</string>
+			<key>UseDevelopmentAPNS</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>iClass MDM configuration profile</string>
+	<key>PayloadDisplayName</key>
+	<string>Lai King Catholic Secondary School</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mgmt.External.7a38a925-dadd-4253-ba88-875775b46948</string>
+	<key>PayloadOrganization</key>
+	<string>iClass</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>2AC50B37-4E1C-4280-9FC1-4E40ECD22BFF</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>ProfileWasEncrypted</key>
+	<false/>
+	<key>TargetDeviceType</key>
+	<integer>0</integer>
+</dict>
+</plist>
